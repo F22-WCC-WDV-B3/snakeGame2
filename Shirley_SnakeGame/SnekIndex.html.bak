@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="SnekStyles.css" rel="stylesheet">
+<head>
+	<title> Snek Game </title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<script src="SnekScript.js"></script>
+	<button onclick="newGame()">New Game</button>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+	
+	<main>
+			
+	</main>
+</body>
+<footer>
+
+
+
+</footer>
+
+</html>
