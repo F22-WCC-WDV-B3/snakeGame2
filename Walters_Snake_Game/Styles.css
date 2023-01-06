@@ -1,0 +1,9 @@
+ /* snakegame css */
+ button { display: block;
+ font-size: 18px;
+ margin-bottom: 10px;
+ }
+ canvas {
+	 border: 1px solid black;
+	 
+ }
