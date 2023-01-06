@@ -1,0 +1,5 @@
+/* css file for Walsers Danger Noodle Game */
+Button	{	display: block;
+font-size: 1000em;
+margin-bottom: 10px;
+}
