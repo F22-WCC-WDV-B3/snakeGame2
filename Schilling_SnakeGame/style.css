@@ -1,0 +1,12 @@
+/*whoa look this is a comment*/
+button { 
+	display: block;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+canvas { 
+	border: 1px solid black;
+}
+
+body { background-image: url(hehehehaw.gif)
+}
